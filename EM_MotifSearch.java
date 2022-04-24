@@ -1,3 +1,9 @@
+/**
+ * Spring 2022
+ * Catherine Larson
+ * Implementing Expectation-Maximization algorithm for characterizing motifs in genomic sequence.
+ */
+
 import java.util.*;
 import java.lang.Math;
 public class EM_MotifSearch extends MotifSearch {
